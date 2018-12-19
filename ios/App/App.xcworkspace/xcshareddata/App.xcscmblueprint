@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B6B09439FC0AB6F7D455C24345E6D5D7FD203F6B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "201436FB7201CA27ED72E25610EC8A20DDACACDF" : 9223372036854775807,
+    "B6B09439FC0AB6F7D455C24345E6D5D7FD203F6B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1B4B8B5C-07B4-44A7-B058-9171797AC426",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "201436FB7201CA27ED72E25610EC8A20DDACACDF" : "..",
+    "B6B09439FC0AB6F7D455C24345E6D5D7FD203F6B" : "event-manager\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "App",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/App\/App.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/buddylee939\/ionic-apps.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "201436FB7201CA27ED72E25610EC8A20DDACACDF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/buddylee939\/firebase-auth-starter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B6B09439FC0AB6F7D455C24345E6D5D7FD203F6B"
+    }
+  ]
+}
